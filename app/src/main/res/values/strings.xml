@@ -8,6 +8,7 @@
     <string name="go_ubiquitous_app">go ubiquitous</string>
     <string name="capstone_app">capstone</string>
 
+    <!-- https://developer.android.com/reference/java/util/Formatter.html -->
     <string name="toast_message_title">
         This button will launch my %1$s app!
     </string>
